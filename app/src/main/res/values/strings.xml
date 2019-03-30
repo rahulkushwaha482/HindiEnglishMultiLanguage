@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HindiEnglish</string>
+    <string name="hello_world">Hello world</string>
+    <string name="about_me">I am Rahul Kushwaha. I am from Nepal. I am an Android Developer working in
+        ElanwrapTechnologies Pvt Ltd,Noida,201301. Android Is my Passion. I am a hard working person.
+    </string>
+    <string name="about">About</string>
+
+</resources>

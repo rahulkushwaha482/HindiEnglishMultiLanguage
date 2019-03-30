@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">हिंदी अंग्रेजी</string>
+    <string name="hello_world">नमस्ते दुनिया</string>
+    <string name="about_me">मैं राहुल कुशवाहा हूं। मैं नेपाल से हूँ। मैं एक Android डेवलपर हूं, जो Elan Wrap Pvt Technologies Ltd., नोएडा, 201301 में काम कर रहा है। Android मेरा जुनून है। मैं एक मेहनती इंसान हूं।</string>
+    <string name="about">मेरे बारे में</string>
+</resources>
